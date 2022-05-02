@@ -1,1 +1,1 @@
-I create KYJ.md
+Hello! I create KYJ.md.
